@@ -1,0 +1,36 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "JWAN_PoseSnapShotLogic.h"
+
+#ifdef JAKUBANIMNODESTOOL_JWAN_PoseSnapShotLogic_generated_h
+#error "JWAN_PoseSnapShotLogic.generated.h already included, missing '#pragma once' in JWAN_PoseSnapShotLogic.h"
+#endif
+#define JAKUBANIMNODESTOOL_JWAN_PoseSnapShotLogic_generated_h
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ReflectedTypeAccessors.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
+// ********** Begin ScriptStruct FJWAN_PoseSnapShotLogic *******************************************
+struct Z_Construct_UScriptStruct_FJWAN_PoseSnapShotLogic_Statics;
+JAKUBANIMNODESTOOL_API UScriptStruct* Z_Construct_UScriptStruct_FJWAN_PoseSnapShotLogic(ETypeConstructPhase);
+
+#define FID_Unreal_Projects_UE5_8_AGLS_v2_0_0__UE5_8_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h_12_GENERATED_BODY \
+	friend struct ::Z_Construct_UScriptStruct_FJWAN_PoseSnapShotLogic_Statics; \
+	UE_NODEBUG static UScriptStruct* StaticStruct() { return Z_Construct_UScriptStruct_FJWAN_PoseSnapShotLogic(ETypeConstructPhase::Inner); } \
+	typedef FAnimNode_Base Super;
+
+
+struct FJWAN_PoseSnapShotLogic;
+// ********** End ScriptStruct FJWAN_PoseSnapShotLogic *********************************************
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Unreal_Projects_UE5_8_AGLS_v2_0_0__UE5_8_Plugins_JakubAnimNodes_Source_JakubAnimNodesTool_Public_JWAN_PoseSnapShotLogic_h
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

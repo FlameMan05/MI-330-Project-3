@@ -1,0 +1,14 @@
+"D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Plugins/JakubAnimNodes/Source/JakubAnimNodesTool/Private/JakubAnimNodesTool.cpp"
+@"D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealGame/Shipping/JakubAnimNodesTool/JakubAnimNodesTool.Shared.rsp"
+/FI"D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Intermediate/Build/Win64/x64/AGLS/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealGame/Shipping/JakubAnimNodesTool/Definitions.JakubAnimNodesTool.h"
+/Yu"D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Intermediate/Build/Win64/x64/AGLS/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Intermediate/Build/Win64/x64/AGLS/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealGame/Shipping/JakubAnimNodesTool/JakubAnimNodesTool.cpp.obj"
+/experimental:log "D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealGame/Shipping/JakubAnimNodesTool/JakubAnimNodesTool.cpp.sarif"
+/sourceDependencies "D:/Unreal Projects/UE5.8/AGLS v1.9.2 UE5.8/Plugins/JakubAnimNodes/Intermediate/Build/Win64/x64/UnrealGame/Shipping/JakubAnimNodesTool/JakubAnimNodesTool.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054
