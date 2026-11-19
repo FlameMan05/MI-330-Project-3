@@ -1,0 +1,14 @@
+"D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Plugins/GraphDebbuger/Source/GraphDebbuger/Private/GraphDebuggerCore.cpp"
+@"D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebbuger.Shared.rsp"
+/FI"D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Intermediate/Build/Win64/x64/AGLS_ProgramingCppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/Definitions.GraphDebbuger.h"
+/Yu"D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Intermediate/Build/Win64/x64/AGLS_ProgramingCppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Intermediate/Build/Win64/x64/AGLS_ProgramingCppEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebuggerCore.cpp.obj"
+/experimental:log "D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebuggerCore.cpp.sarif"
+/sourceDependencies "D:/Unreal Projects/UE5.8/AGLS_ProgramingCpp 5.8/Plugins/GraphDebbuger/Intermediate/Build/Win64/x64/UnrealEditor/Development/GraphDebbuger/GraphDebuggerCore.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

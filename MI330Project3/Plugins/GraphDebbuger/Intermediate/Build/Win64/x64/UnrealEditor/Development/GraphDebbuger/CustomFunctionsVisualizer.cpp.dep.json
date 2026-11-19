@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ue5.8\\agls_programingcpp 5.8\\plugins\\graphdebbuger\\source\\graphdebbuger\\private\\customfunctionsvisualizer.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ue5.8\\agls_programingcpp 5.8\\intermediate\\build\\win64\\x64\\agls_programingcppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ue5.8\\agls_programingcpp 5.8\\plugins\\graphdebbuger\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphdebbuger\\definitions.graphdebbuger.h",
+            "d:\\unreal projects\\ue5.8\\agls_programingcpp 5.8\\plugins\\graphdebbuger\\source\\graphdebbuger\\public\\customfunctionsvisualizer.h",
+            "d:\\program files\\engine\\ue_5.8\\engine\\source\\editor\\unrealed\\public\\componentvisualizer.h",
+            "d:\\program files\\engine\\ue_5.8\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "d:\\program files\\engine\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "d:\\program files\\engine\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\componentvisualizer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
